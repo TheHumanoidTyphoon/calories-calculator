@@ -1,3 +1,3 @@
-Daily Calorie Calculator
+Daily Calories Calculator
 
 # calories-calculator
